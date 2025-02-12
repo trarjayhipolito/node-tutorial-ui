@@ -1,4 +1,4 @@
-# Node-tutorial-ui
+# VueJS Tutorial
 
 A Vue.js Project
 
